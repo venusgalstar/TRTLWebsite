@@ -1,4 +1,4 @@
-import logo from '../assets/token_logo_512.png';
+import logo from '../assets/logo.png';
 
 function Header() {
     return (
@@ -16,7 +16,7 @@ function Header() {
                 </ul>
             </div>
             <div className="header-buy">
-                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">BUY $LAUGH</a>
+                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">BUY $TRTL</a>
             </div>
         </header >
     );

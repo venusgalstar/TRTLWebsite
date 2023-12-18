@@ -34,10 +34,10 @@ function About() {
                     </div>
                 </div>
                 <div className="about-heading aos-init aos-animate" data-aos="fade-up">
-                    🚀 Why LaughCoin?
+                    🚀 Why TRTLCoin?
                 </div>
                 <p className="about-desc aos-init aos-animate" data-aos="fade-up">
-                    LaughCoin is not your typical crypto venture. We believe that in the world of decentralized finance,
+                TRTLCoin is not your typical crypto venture. We believe that in the world of decentralized finance,
                     there's room for a bit of lightheartedness. Our token is a digital canvas for the hilarious, the quirky,
                     and the downright amusing. We've harnessed the power of memes to create a unique and entertaining token
                     that reflects the vibrancy of our community.
@@ -47,7 +47,7 @@ function About() {
                         <img src={logoSolidarity} alt="" />
                         <h1 className="utility-title">🌐 Community-Driven Fun</h1>
                         <p className="utility-des">
-                            At LaughCoin, community is everything. We're building a space where crypto enthusiasts,
+                            At TRTLCoin, community is everything. We're building a space where crypto enthusiasts,
                             meme creators, and laughter aficionados come together. Expect exciting meme contests,
                             collaborative initiatives, and a shared passion for spreading joy through the crypto-sphere.
                         </p>
@@ -56,8 +56,8 @@ function About() {
                         <img src={logoFire} alt="" />
                         <h1 className="utility-title">💰 Utility Meets Entertainment</h1>
                         <p className="utility-des">
-                            LaughCoin isn't just about laughs; it's about utility too.
-                            As a decentralized meme token, LaughCoin offers holders the chance
+                            TRTLCoin isn't just about laughs; it's about utility too.
+                            As a decentralized meme token, TRTLCoin offers holders the chance
                             to participate in exclusive events, unlock special features,
                             and be part of a growing ecosystem that values both innovation and amusement.
                         </p>
@@ -67,7 +67,7 @@ function About() {
                         <h1 className="utility-title">🌈 Join the Laughter Revolution</h1>
                         <p className="utility-des">
                             Whether you're a seasoned crypto investor or a meme connoisseur,
-                            LaughCoin welcomes you to a world where serious gains can coexist with a seriously good time.
+                            TRTLCoin welcomes you to a world where serious gains can coexist with a seriously good time.
                             Buckle up for an exhilarating ride as we redefine the narrative of what a meme token can be.
                         </p>
                     </div>
