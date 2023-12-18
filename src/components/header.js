@@ -16,7 +16,7 @@ function Header() {
                 </ul>
             </div>
             <div className="header-buy">
-                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">BUY $TRTL</a>
+                <a href=" https://injective.com/">BUY $TRTL</a>
             </div>
         </header >
     );

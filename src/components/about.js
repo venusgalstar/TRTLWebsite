@@ -13,62 +13,62 @@ function About() {
             <div className="wrap-about">
                 <div className="about-dex aos-init aos-animate" data-aos="fade-up">
                     <div className="dex-img">
-                        <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7&fixed=in">
+                        <a href="https://injective.com/">
                             <img src={logoRaydium} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://solscan.io/token/C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7">
+                        <a href="https://explorer.injective.network/">
                             <img src={logoSolscan} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://dexscreener.com/solana/gvy5dgoagmkfw4lrh836pf9dwlt4dml7k74pfchnwirc">
+                        <a href="https://astroport.fi/en">
                             <img src={logoDexscreener} alt="" />
                         </a>
                     </div>
                     <div className="dex-img">
-                        <a href="https://www.dextools.io/app/en/solana/pair-explorer/GVy5DGoAgMKfw4LRH836PF9DWLT4dML7K74PfChNWirC">
+                        <a href="https://coinhall.org/?tab=tokens&watchlist=false&timeframe=24h&sort=mcap&dir=desc">
                             <img src={logoDextools} alt="" />
                         </a>
                     </div>
                 </div>
                 <div className="about-heading aos-init aos-animate" data-aos="fade-up">
-                    🚀 Why TRTLCoin?
+                    $TRTL ROADMAP
                 </div>
                 <p className="about-desc aos-init aos-animate" data-aos="fade-up">
-                TRTLCoin is not your typical crypto venture. We believe that in the world of decentralized finance,
-                    there's room for a bit of lightheartedness. Our token is a digital canvas for the hilarious, the quirky,
-                    and the downright amusing. We've harnessed the power of memes to create a unique and entertaining token
-                    that reflects the vibrancy of our community.
+                    $TRTL is not just your typical memecoin. By combining the Injective Ninja community spirit with the Ninja Turtle meme, 
+                    we hope to harness the collective power of the internet and build one of the greatest communities not only on Injective, 
+                    but across the entire world. 
                 </p>
                 <div className="about-utility aos-init aos-animate" data-aos="fade-up">
                     <div className="utility-box">
                         <img src={logoSolidarity} alt="" />
-                        <h1 className="utility-title">🌐 Community-Driven Fun</h1>
+                        <h1 className="utility-title"> Phase 1: </h1>
                         <p className="utility-des">
-                            At TRTLCoin, community is everything. We're building a space where crypto enthusiasts,
-                            meme creators, and laughter aficionados come together. Expect exciting meme contests,
-                            collaborative initiatives, and a shared passion for spreading joy through the crypto-sphere.
+                            -$TRTL token creation<br></br>
+                            -Renounce $TRTL contract<br></br>
+                            -Stealth Launch $TRTL Liquidity on astroport<br></br>
+                            -Burn $TRTL Liquidity<br></br>
+                            -Launch Socials<br></br>
                         </p>
                     </div>
                     <div className="utility-box">
                         <img src={logoFire} alt="" />
-                        <h1 className="utility-title">💰 Utility Meets Entertainment</h1>
+                        <h1 className="utility-title"> Phase 2: </h1>
                         <p className="utility-des">
-                            TRTLCoin isn't just about laughs; it's about utility too.
-                            As a decentralized meme token, TRTLCoin offers holders the chance
-                            to participate in exclusive events, unlock special features,
-                            and be part of a growing ecosystem that values both innovation and amusement.
+                            -Meme Contests<br></br>
+                            -Community Spaces<br></br>
+                            -$INJ and $TRTL giveaways<br></br>
                         </p>
                     </div>
                     <div className="utility-box">
                         <img src={logoWallet} alt="" />
-                        <h1 className="utility-title">🌈 Join the Laughter Revolution</h1>
+                        <h1 className="utility-title">Phase 3:</h1>
                         <p className="utility-des">
-                            Whether you're a seasoned crypto investor or a meme connoisseur,
-                            TRTLCoin welcomes you to a world where serious gains can coexist with a seriously good time.
-                            Buckle up for an exhilarating ride as we redefine the narrative of what a meme token can be.
+                            -Dex Listings<br></br>
+                            -Cex Listings<br></br>
+                            -Injective Ninja Turtle NFT collection<br></br>
                         </p>
                     </div>
                 </div>
@@ -77,7 +77,7 @@ function About() {
                         <a href="https://laughcoin.io/#">Burned Transaction</a>
                     </div>
                     <div className="button-style">
-                        <a href="https://solscan.io/tx/5AdGUJBn4q6TF2gAZKPnWeMRh7Np1HYRndJXBqhPiC7SqLr7CG8yq1HTw3M5mp1Q3fgR6zfBoaS6WyYXwgzif76h">Renounced Transaction</a>
+                        <a href="https://explorer.injective.network/">Renounced Transaction</a>
                     </div>
                 </div>
             </div>
