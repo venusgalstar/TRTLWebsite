@@ -22,12 +22,12 @@ function Main() {
                     <div className="main-social">
                         <div className="social-1">
                             <div className="button-social">
-                                <a href="https://t.me/+pYi9uwqz1q1mNzM1" target="_blank">
+                                <a href="https://t.me/InjectiveNinjaTurtles" target="_blank">
                                     <img src={logoTelegram} alt="" />
                                     Telegram</a>
                             </div>
                             <div className="button-social">
-                                <a href="https://twitter.com/Laugh__Coin" target="_blank">
+                                <a href="https://x.com/ninjaturtlesinj?s=21&t=-pNh1CK1RWKpM-pukhgHTg" target="_blank">
                                     <img src={logoTwitter} alt="" />
                                     Twitter</a>
                             </div>
@@ -39,7 +39,7 @@ function Main() {
                                     Buy $TRTL</a>
                             </div>
                             <div className="button-social">
-                                <a href="https://birdeye.so/token/C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7?chain=solana">
+                                <a href="https://coinhall.org/?tab=tokens&watchlist=false&timeframe=24h&sort=mcap&dir=desc">
                                     <img src={logoBar} alt="" />
                                     Open Chart</a>
                             </div>

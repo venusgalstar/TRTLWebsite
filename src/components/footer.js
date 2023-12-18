@@ -9,8 +9,8 @@ function About() {
                 <div className="footer-left">
                     <img className="left-logo" src={logo} alt=""  />
                     <div className="social">
-                        <a href="https://t.me/+pYi9uwqz1q1mNzM1" target="_blank"><img className="img-social" src={logoTelegram} alt="" /></a>
-                        <a href="https://twitter.com/Laugh__Coin" target="_blank"><img className="img-social" src={logoTwitter} alt="" /></a>
+                        <a href="https://t.me/InjectiveNinjaTurtles" target="_blank"><img className="img-social" src={logoTelegram} alt="" /></a>
+                        <a href="https://x.com/ninjaturtlesinj?s=21&t=-pNh1CK1RWKpM-pukhgHTg" target="_blank"><img className="img-social" src={logoTwitter} alt="" /></a>
                     </div>
                 </div>
                 <div className="footer-mid">
@@ -35,10 +35,10 @@ function About() {
                             <a href=" https://injective.com/">BUY $TRTL</a>
                         </div>
                         <div className="footer-button">
-                            <a href="https://birdeye.so/token/C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7?chain=solana">VIEW CHART</a>
+                            <a href="https://coinhall.org/?tab=tokens&watchlist=false&timeframe=24h&sort=mcap&dir=desc">VIEW CHART</a>
                         </div>
                         <div className="footer-button">
-                            <a href="https://t.me/+pYi9uwqz1q1mNzM1" target="_blank">COMMUNITY</a>
+                            <a href="https://t.me/InjectiveNinjaTurtles" target="_blank">COMMUNITY</a>
                         </div>
                     </div>
                 </div>
