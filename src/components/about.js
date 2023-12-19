@@ -1,7 +1,7 @@
-import logoRaydium from '../assets/raydium.png';
-import logoSolscan from '../assets/solscan.png';
-import logoDexscreener from '../assets/dexscreener-1.png';
-import logoDextools from '../assets/dextools-1.png';
+import logoRaydium from '../assets/astroport.jpg';
+import logoSolscan from '../assets/injective.jpg';
+import logoDexscreener from '../assets/astroport.jpg';
+import logoDextools from '../assets/coinhall.jpg';
 import logoSolidarity from '../assets/solidarity-1.png';
 import logoFire from '../assets/fire-1.png';
 import logoWallet from '../assets/wallet-filled-money-tool-1.png';
@@ -37,9 +37,9 @@ function About() {
                     $TRTL ROADMAP
                 </div>
                 <p className="about-desc aos-init aos-animate" data-aos="fade-up">
-                    $TRTL is not just your typical memecoin. By combining the Injective Ninja community spirit with the Ninja Turtle meme, 
-                    we hope to harness the collective power of the internet and build one of the greatest communities not only on Injective, 
-                    but across the entire world. 
+                    $TRTL is not just your typical memecoin. By combining the Injective Ninja community spirit with the Ninja Turtle meme,
+                    we hope to harness the collective power of the internet and build one of the greatest communities not only on Injective,
+                    but across the entire world.
                 </p>
                 <div className="about-utility aos-init aos-animate" data-aos="fade-up">
                     <div className="utility-box">
@@ -72,18 +72,17 @@ function About() {
                         </p>
                     </div>
                 </div>
-                <div className="about-button aos-init aos-animate" data-aos="fade-up">
-                    <div className="button-style">
-                        <a href="https://laughcoin.io/#">Burned Transaction</a>
-                    </div>
-                    <div className="button-style">
-                        <a href="https://explorer.injective.network/">Renounced Transaction</a>
-                    </div>
-                </div>
             </div>
 
             <div className="tokenomics-mobile" id="tokenomics">
                 <h1 data-aos="fade-up" className="aos-init aos-animate">Tokenomics</h1>
+                <p className="utility-title">
+                    Total Supply: 1,000,000,000 $TRTL<br></br>
+                    Liquidity: 900,000,000 $TRTL<br></br>
+                    Team Tokens: 50,000,000 $TRTL<br></br>
+                    CEX Listing Tokens: 50,000,000 $TRTL<br></br>
+                </p>
+
                 {/* <img src={logoTokenomics} alt="" /> */}
             </div>
         </div>

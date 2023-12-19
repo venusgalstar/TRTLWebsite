@@ -32,7 +32,7 @@ function About() {
                     </h2>
                     <div className="box-button">
                         <div className="footer-button button1">
-                            <a href=" https://injective.com/">BUY $TRTL</a>
+                            <a href=" https://app.astroport.fi/swap">BUY $TRTL</a>
                         </div>
                         <div className="footer-button">
                             <a href="https://coinhall.org/?tab=tokens&watchlist=false&timeframe=24h&sort=mcap&dir=desc">VIEW CHART</a>

@@ -34,7 +34,7 @@ function Main() {
                         </div>
                         <div className="social-2">
                             <div className="button-social">
-                                <a href=" https://injective.com/">
+                                <a href=" https://app.astroport.fi/swap">
                                     <img src={logoShopping} alt="" />
                                     Buy $TRTL</a>
                             </div>
